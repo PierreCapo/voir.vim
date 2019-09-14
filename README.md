@@ -5,7 +5,7 @@
 </p>
 
 
-![alt text](https://github.com/PierreCapo/voir/raw/master/screenshot.png)
+![alt text](https://github.com/PierreCapo/voir.vim/raw/master/screenshot.png)
 <p align="center">
 <i>Neovim - iterm2 - Hack (13pt)</i></p>
 
