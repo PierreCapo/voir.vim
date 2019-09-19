@@ -6,6 +6,8 @@ let g:colors_name="voir"
 
 "JavaScript
 hi jsImport guifg=#EE6391 gui=italic
+hi jsTry guifg=#EE6391 gui=italic
+hi jsCatch guifg=#EE6391 gui=italic
 hi jsExport guifg=#EE6391 gui=italic
 hi jsFrom guifg=#EE6391 gui=italic
 hi jsModuleAs guifg=#EE6391 gui=italic
